@@ -1,0 +1,11 @@
+Continent,Country,female literacy,fertility,population
+ASI,Chine,90.5,1.769,1324655e+09
+ASI,Inde,50.8,2.682,139965e+09
+NAM,USA,99.0,2.077,3.040600e+08
+ASI,Indonésie,88.8,2.132,2.273451e+08
+LAT,Brésil,90.2,1.827,NaN
+AF,Sao Tomé-et-Principe,90.5,1.769,1.324655e+09
+LAT,Aruba,50.8,2.682,1.139900e+09
+ASI,Tonga,99.0,2.077,3.040000e+08
+OCE,Australia,88.8,2.132,2.273000e+08
+OCE,Sweden,90.2,1.827,
